@@ -1,6 +1,7 @@
 /*
  * file: 7-print_tebahpla.c
  */
+
 #include<stdio.h>
 #include <stdlib.h>
 #include<time.h>
@@ -10,6 +11,7 @@
  *
  * Return: 0 always.
  */
+
 int main(void)
 {
 	char alphabets;
