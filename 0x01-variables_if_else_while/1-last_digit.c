@@ -33,6 +33,4 @@ int main(void)
 			n, n % 10);
 	}
 	return (0);
-}
-
-		
+}		
