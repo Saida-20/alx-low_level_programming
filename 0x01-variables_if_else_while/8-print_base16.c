@@ -17,8 +17,9 @@ int main(void)
 
 	for (num = 0; num < 10; num++)
 		putchar((num % 10) + '0');
+	
 	for (alphabet = 'a'; alphabet <= 'f'; alphabet++)
-		putchar(letter);
+		putchar(alphabet);
 
 	putchar('\n');
 	return (0);
