@@ -2,8 +2,7 @@
  * file: 0-putchar.c
  */
 
-#include <stdio.h>
-#include "main.h"
+#include <main.h>
 
 /**
 * main - prints "_putchar" followed by a new line.
