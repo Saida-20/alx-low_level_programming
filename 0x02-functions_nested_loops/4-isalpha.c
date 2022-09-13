@@ -6,7 +6,7 @@
 
 /**
  * _isalpha - checks if a character is alphabetic.
- * @c - the character to be checked
+ * @c: the character to be checked
  *
  * Return: 0 always.
  */
