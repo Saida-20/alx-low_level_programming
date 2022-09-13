@@ -1,10 +1,12 @@
 #include "main.h"
 /**
- * file: 0-putchar.c
- *
  * main - prints "_putchar" followed by a new line.
+ *
+ * description: main executes _putchar
+ *
  * Return: 0 always.
  */
+
 int main(void)
 {
 	_putchar('_');
