@@ -10,7 +10,7 @@
  *
  * Return: value of didgit.
  */
- int print_last_digit(int n)
+int print_last_digit(int n)
 {
 	int last_digit = n % 10;
 
