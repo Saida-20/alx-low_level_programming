@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * print_to_98 -  prints all natural numbers from n to 98, Numbers must 
+ * print_to_98 -  prints all natural numbers from n to 98, Numbers must
  * be separated by a comma, followed by a space
  * @n: number to begin couting at.
  */
