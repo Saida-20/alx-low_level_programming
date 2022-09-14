@@ -7,7 +7,7 @@
 /**
  * print_to_98 -  prints all natural numbers from n to 98, Numbers must 
  * be separated by a comma, followed by a space
- * @n - number to begin couting at.
+ * @n: number to begin couting at.
  */
 
 void print_to_98(int n)
@@ -18,7 +18,6 @@ void print_to_98(int n)
 			printf("%d, ", n--);
 		printf("%d\n", n);
 	}
-	
 	else
 	{
 		while (n < 98)
