@@ -6,6 +6,7 @@
  * Return: 1 if uppercase, else 0
  */
 
+int main(void)
 int _isupper(int c)
 {
 	if (c > 64 && c < 91)
