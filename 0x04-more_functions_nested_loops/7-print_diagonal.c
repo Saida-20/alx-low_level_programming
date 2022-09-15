@@ -1,7 +1,5 @@
 #include "main.h"
 
-
-
 /**
  * print_diagonal - draw a diagonal line
  * @n: number of times the '\' char is printed
@@ -12,7 +10,7 @@
 void print_diagonal(int n)
 {
 	int c, i;
-	
+
 	c = 0;
 	while (n > 0)
 	{
