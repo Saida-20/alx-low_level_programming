@@ -6,7 +6,7 @@
  * Description: Can only use _putchar
  */
 
-void _puts(char *str);
+void _puts(char *str)
 {
 	int i;
 
