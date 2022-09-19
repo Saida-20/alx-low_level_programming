@@ -1,6 +1,6 @@
 #include "main.h"
+
 /**
- *
  * *_strcpy - See description
  * @dest: char type string
  * @src: char type string
