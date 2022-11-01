@@ -36,7 +36,7 @@ int main(int ac, char **av)
 		{ dprintf(STDERR_FILENO, "Error: Can't write to %s\n", av[2]);
 			exit(99); }
 	}
-	lose_file = close(file_from);
+	close_file = close(file_from);
 	if (close_file == -1)
 	{ dprintf(STDERR_FILENO, "Error: Can't close fd  %d\n", file_from);
 		exit(100); }
